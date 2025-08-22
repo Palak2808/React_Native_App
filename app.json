@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "MyApp",
-    "slug": "MyApp",
+    "name": "mobile_movie_app",
+    "slug": "mobile_movie_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
-    "userInterfaceStyle": "automatic",
+    "scheme": "movies",
+    "userInterfaceStyle": "automatic", 
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
